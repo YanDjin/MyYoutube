@@ -1,0 +1,15 @@
+[submodule "frontend_vue"]
+	path = frontend_vue
+	url = https://github.com/YanDjin/frontend_vue.git
+[submodule "API_email_Laravel"]
+	path = API_email_Laravel
+	url = https://github.com/YanDjin/API_email_Laravel.git
+[submodule "API_Laravel"]
+	path = API_Laravel
+	url = https://github.com/YanDjin/API_Laravel.git
+[submodule "API_search_Laravel"]
+	path = API_search_Laravel
+	url = https://github.com/YanDjin/API_search_Laravel.git
+[submodule "API_encodage_Laravel"]
+	path = API_encodage_Laravel
+	url = https://github.com/YanDjin/API_encodage_Laravel.git
